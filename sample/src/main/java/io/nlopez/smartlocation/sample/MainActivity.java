@@ -34,6 +34,8 @@ public class MainActivity extends Activity implements OnLocationUpdatedListener,
 
     private LocationGooglePlayServicesProvider provider;
 
+
+
     @Override
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
